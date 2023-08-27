@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./imgs/reading.gif" />
 
-  <h3 align="center">LINK TO DEPLOYED APPLICATION: <h3>
+  <h3 align="center">LINK TO DEPLOYED APPLICATION: https://book-search-engine-the-nanite-7de2959e8d43.herokuapp.com/<h3>
 </p>
 
 # Table of Contents
