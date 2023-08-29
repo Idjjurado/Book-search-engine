@@ -37,6 +37,9 @@ I ended up using quite a few different things!
 
 Ismael Jimenez: https://github.com/Idjjurado
 
+Worked and collaborated with:
+Daniel Pacheco - https://github.com/Daniel-0117
+
 ## License
 
 MIT License (see repo)
